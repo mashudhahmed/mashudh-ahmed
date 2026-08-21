@@ -5,7 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Problem+Solver;Tech+Enthusiast&cursor=true" alt="Typing SVG" /></a>
 <br/>
 <p align="center">
-CS undergrad at AIUB with a focus on backend-heavy full-stack engineering. I've shipped e-commerce platforms, food delivery systems, and Android apps — and I'm currently researching LLM-powered financial analysis for my thesis. Always building something new.
+  
+**CS undergrad at AIUB focused on backend-heavy full-stack engineering.**  I've built e-commerce platforms, food delivery systems, and Android applications, and I'm currently working with **Python, Django, Django REST Framework, PostgreSQL, React, Docker, and Redis**.
+
+**Currently:** Learning how real-world Django applications are designed, structured, tested, secured, containerized, and deployed.
+
 </p>
 
 <h2>Git Stats</h2>
